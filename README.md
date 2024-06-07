@@ -10,7 +10,7 @@ Codigo para enviar el libro de la Biblia entera parrafo por parrafo en WhatsApp
 
 3.- Abrir la consola del navegador (tecla F12)
 
-4.- Abrir el siguiente enlace [BibliaSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
+4.- Abrir el siguiente enlace [BibliaSendScript.js](https://github.com/RavingMMD/EnviarScriptWhatsappBiblia/blob/main/BibliaSendScript.js)
 
 5.- Copiar todo el contenido (click en raw -> ctrl+a -> ctrl+c)
 
