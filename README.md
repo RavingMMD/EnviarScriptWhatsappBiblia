@@ -14,8 +14,10 @@ Codigo para enviar el libro de la Biblia entera parrafo por parrafo en WhatsApp
 
 5.- Copiar todo el contenido (click en raw -> ctrl+a -> ctrl+c)
 
-6.- Presionar Enter y mantener la pestaña de Whatsapp abierta (se puede continuar trabajando normalmente mientras
-se ejecuta el script, no es necesario mantener consola abierta)
+6.- Pegar todo el contenido en Consola (ctrl+p)
+
+7.- Presionar Enter y mantener la pestaña de Whatsapp abierta (se puede continuar trabajando normalmente mientras
+se ejecuta el script, no es necesario mantener consola abierta o la pestaña enfocada, se puede minimizar)
 
 |  ⚠️ Aviso importante, nueva actualización reciente de Google Chrome, hace imposible que el script seea ejecutado en la consola.|
 |--|
